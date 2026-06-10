@@ -7,3 +7,5 @@ The Kariin Project was created to serve as a backup for the Azurarea Project. As
 ✨Thank you for your attention. I apologize for not being able to release the alpha version sooner. 🙌
 
 # Project stopped
+
+##The project was stopped due to lack of support from the main developer.
